@@ -7,7 +7,7 @@ This project is a Python script that fetches files from a GitHub project reposit
 
 - Fetches files from a specified GitHub repository.
 - Generates a `README.md` file with a description of the project and its files.
-- Utilizes the OpenAI GPT-4 Turbo model to generate descriptive content.
+- Utilizes the OpenAI GPT-4o model to generate descriptive content.
 
 ## Prerequisites
 
