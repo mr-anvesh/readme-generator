@@ -1,7 +1,7 @@
 
 # GitHub README Generator
 
-This project is a Python script that fetches files from a GitHub project repository and generates a `README.md` file using OpenAI's GPT-4 Turbo model.
+This project is a Python script that fetches files from a GitHub project repository and generates a `README.md` file using OpenAI's GPT-4o model.
 
 ## Features
 
